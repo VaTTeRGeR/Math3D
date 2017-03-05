@@ -1,0 +1,44 @@
+#######################################
+# Syntax Coloring Map for Math3D
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+Quaternion	KEYWORD2
+Vector3		KEYWORD2
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+set				KEYWORD2
+scl				KEYWORD2
+nor				KEYWORD2
+dot				KEYWORD2
+len				KEYWORD2
+transform		KEYWORD2
+lerp			KEYWORD2
+slerp			KEYWORD2
+idt				KEYWORD2
+conjugate		KEYWORD2
+mul				KEYWORD2
+mulLeft			KEYWORD2
+setFromAxis		KEYWORD2
+setFromCross	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+Q_FP_ERR	LITERAL1
+Q_PI		LITERAL1
+Q_PI2		LITERAL1
+Q_RADDEG	LITERAL1
+Q_DEGRAD	LITERAL1
+
+#######################################
+# Variables/Volatiles (LITERAL2)
+#######################################

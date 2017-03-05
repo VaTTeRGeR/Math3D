@@ -1,0 +1,12 @@
+{
+  "name": "Math3D",
+  "keywords": "math,3d,vector,quaternion",
+  "description": "Vector/Quaternion Math",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/VaTTeRGeR/Math3D.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
