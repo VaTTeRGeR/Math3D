@@ -37,6 +37,10 @@ Vector3& Vector3::nor() {
 }
 
 
+Vector3& Vector3::zero() {
+	x = y = z = 0.0;
+}
+
 float Vector3::dot(const Vector3& v) {
 	return x * v.x + y * v.y + z * v.z;
 }

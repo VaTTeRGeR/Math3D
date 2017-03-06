@@ -24,6 +24,7 @@ struct Vector3 {
 	Vector3& set(float x, float y, float z);
 	Vector3& scl(float alpha);
 	Vector3& nor();
+	Vector3& zero();
 
 	float dot(const Vector3& v);
 	float len();
